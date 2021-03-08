@@ -1,5 +1,9 @@
 ## Change Log
 
+### 1.6.0
+
+migrate to AndroidX
+
 ### 1.5.1
 
 fix set light/dark mode bug
